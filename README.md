@@ -13,7 +13,7 @@
 		I'm also the owner of a K-On! oriented Discord server. Tea Time Club
 	</p>
 	<p align='center'>
-		Feel free to stop by. <img alt="Discord" src="https://img.shields.io/discord/625008568369938445?logo=discord">
+		<img alt="Discord" src="https://img.shields.io/discord/625008568369938445?logo=discord">
 	</p>
 	<a href='https://discord.gg/qpsYX58'>
 		<img alt='Tea Time Club' src='https://yko.im/DEPH.png' width='200px'></a>
