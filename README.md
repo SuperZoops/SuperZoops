@@ -1,10 +1,10 @@
 <div align='center'>
   <p align='center'><strong>Feel free to contact me on any of the following platforms.</strong></p>
   <p>
-    <a href='https://twitter.com/sailorzoop'>
-			<img alt='Twitter' src='https://img.shields.io/badge/| sailorzoop-darkblue?&logo=twitter'></a>
-    <a href='uwu'>  
-			<img alt='Discord' src='https://img.shields.io/badge/| SailorZoop%239082-purple?&logo=discord'></a>
+    <a href='https://mastodon.online/@sailorzoop'>
+			<img alt='Mastodon' src='https://img.shields.io/badge/| sailorzoop-darkblue?&logo=mastodon'></a>
+    <a href=''>  
+			<img alt='Discord' src='https://img.shields.io/badge/| @sailorzoop-purple?&logo=discord'></a>
 		<a href='https://matrix.to/#/@sailorzoop:matrix.org'>
 			<img alt='Matrix' src='https://img.shields.io/badge/| @sailorzoop:matrix.org-darkgreen?&logo=matrix'></a>
 	</p>
